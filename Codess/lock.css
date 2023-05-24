@@ -15,7 +15,7 @@
 	position: relative;
 }
 .logo{
-	width: 120px;
+	width: 60px;
 	padding: 20px 0;
 	cursor: pointer;
 }
@@ -52,8 +52,13 @@ color:#fff;
 	display: flex;
 }
 .launch-time div{
-	flex-basis:100px;
+	flex-basis:60px;
+	
 
+}
+.launch-time div p{
+	font-size:60px;
+	margin-botton:-14;
 }
 .launch-time div p{
 	font-size:60px;
